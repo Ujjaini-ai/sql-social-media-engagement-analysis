@@ -64,7 +64,7 @@ These are flagged rather than presented as confirmed insights, since drawing con
 ```
 ├── README.md              # Project overview (this file)
 ├── SMEA_queries.sql             # All SQL queries (basic → intermediate → advanced)
-└── output               # Screenshots of query results
+└── output.sql,output2.sql,outpu3.sql              # Screenshots of query results
 ```
 
 ## 🙋 Author
